@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "514201482437B4B30078DB4F"
-               BuildableName = "RNWindows.app"
-               BlueprintName = "RNWindows-macOS"
-               ReferencedContainer = "container:RNWindows.xcodeproj">
+               BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+               BuildableName = "ReactPOC.app"
+               BlueprintName = "ReactPOC-iOS"
+               ReferencedContainer = "container:ReactPOC.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -44,10 +44,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "514201482437B4B30078DB4F"
-            BuildableName = "RNWindows.app"
-            BlueprintName = "RNWindows-macOS"
-            ReferencedContainer = "container:RNWindows.xcodeproj">
+            BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+            BuildableName = "ReactPOC.app"
+            BlueprintName = "ReactPOC-iOS"
+            ReferencedContainer = "container:ReactPOC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -61,10 +61,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "514201482437B4B30078DB4F"
-            BuildableName = "RNWindows.app"
-            BlueprintName = "RNWindows-macOS"
-            ReferencedContainer = "container:RNWindows.xcodeproj">
+            BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+            BuildableName = "ReactPOC.app"
+            BlueprintName = "ReactPOC-iOS"
+            ReferencedContainer = "container:ReactPOC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

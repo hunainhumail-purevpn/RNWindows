@@ -9,12 +9,14 @@
   [super viewDidLoad];
 
   RCTBridge *bridge = [((AppDelegate *)[NSApp delegate])bridge];
-  RCTRootView *rootView = [[RCTRootView alloc] initWithBridge:bridge moduleName:@"RNWindows" initialProperties:nil];
+  RCTRootView *rootView = [[RCTRootView alloc] initWithBridge:bridge moduleName:@"ReactPOC" initialProperties:nil];
 
   NSView *view = [self view];
 
   [view addSubview:rootView];
-  [rootView setBackgroundColor:[NSColor windowBackgroundColor]];
+  [rootView setBackgroundColor:
+   [NSColor windowBackgroundColor]
+  ];
   [rootView setFrame:[view bounds]];
   [rootView setAutoresizingMask:(NSViewMinXMargin | NSViewMinXMargin | NSViewMinYMargin | NSViewMaxYMargin | NSViewWidthSizable | NSViewHeightSizable)];
 }

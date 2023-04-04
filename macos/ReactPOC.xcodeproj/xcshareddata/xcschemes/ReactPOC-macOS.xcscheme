@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "RNWindows.app"
-               BlueprintName = "RNWindows-iOS"
-               ReferencedContainer = "container:RNWindows.xcodeproj">
+               BlueprintIdentifier = "514201482437B4B30078DB4F"
+               BuildableName = "ReactPOC.app"
+               BlueprintName = "ReactPOC-macOS"
+               ReferencedContainer = "container:ReactPOC.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -39,15 +39,16 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
+      enableGPUValidationMode = "1"
       allowLocationSimulation = "YES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "RNWindows.app"
-            BlueprintName = "RNWindows-iOS"
-            ReferencedContainer = "container:RNWindows.xcodeproj">
+            BlueprintIdentifier = "514201482437B4B30078DB4F"
+            BuildableName = "ReactPOC.app"
+            BlueprintName = "ReactPOC-macOS"
+            ReferencedContainer = "container:ReactPOC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -61,10 +62,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "RNWindows.app"
-            BlueprintName = "RNWindows-iOS"
-            ReferencedContainer = "container:RNWindows.xcodeproj">
+            BlueprintIdentifier = "514201482437B4B30078DB4F"
+            BuildableName = "ReactPOC.app"
+            BlueprintName = "ReactPOC-macOS"
+            ReferencedContainer = "container:ReactPOC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
